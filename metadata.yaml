@@ -1,0 +1,33 @@
+_repo: Loyal-to-the-School_32093
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bacon, H. L.
+    gutenberg_agent_id: '35660'
+    url: http://www.gutenberg.org/2009/agents/35660
+covers:
+- cover_type: archival
+  image_path: 32093-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_issued: '2010-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- England -- Juvenile fiction'
+- !lcsh 'High schools -- England -- Juvenile fiction'
+- !lcc 'PZ'
+title: Loyal to the School
+url: http://www.gutenberg.org/ebooks/32093
